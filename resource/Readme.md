@@ -13,3 +13,6 @@ Scanpy is a scalable toolkit for analyzing single-cell gene expression data buil
 #### [04. SCVI - Probabilistic models for single-cell omics data](https://scvi-tools.org/)
 scvi-tools accelerates data analysis and model development, powered by PyTorch and AnnData.
 
+
+#### [05. scDeepSort -Cell-type Annotation for Single-cell Transcriptomics using Deep Learning with a Weighted Graph Neural Network](https://github.com/ZJUFanLab/scDeepSort)
+A pre-trained cell-type annotation method, namely scDeepSort, using a state-of-the-art deep learning algorithm, i.e. a modified graph neural network (GNN) model. In brief, scDeepSort was constructed based on our weighted GNN framework and was then learned in two embedded high-quality scRNA-seq atlases containing 764,741 cells across 88 tissues of human and mouse, which are the most comprehensive multiple-organs scRNA-seq data resources to date
